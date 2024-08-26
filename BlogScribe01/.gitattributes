@@ -1,1 +1,2 @@
 voice_model filter=lfs diff=lfs merge=lfs -text
+AI-ModelScope filter=lfs diff=lfs merge=lfs -text
