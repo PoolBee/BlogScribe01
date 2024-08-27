@@ -24,8 +24,8 @@
 ## 安装与使用
 
 ### 安装依赖
-
-在使用BlogScribe之前，请确保您先运行了
+在BlogScribe01目录下
+在运行app.py之前，请确保您先运行了
 requirements.txt
 
 
