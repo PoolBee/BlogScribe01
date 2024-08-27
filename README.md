@@ -40,6 +40,7 @@ pip install -r requirements.txt
 
 # 界面&使用
 <img width="473" alt="图片1" src="https://github.com/user-attachments/assets/ee178fb8-8903-4911-9ba3-619ebda8d5bd">
+
 ## 上传区
 上传知识库词库
 上传语音
