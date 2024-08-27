@@ -42,8 +42,8 @@ pip install -r requirements.txt
 <img width="473" alt="图片1" src="https://github.com/user-attachments/assets/ee178fb8-8903-4911-9ba3-619ebda8d5bd">
 
 ## 上传区
-上传知识库词库
-上传语音
+点击Browse files后选择文件上传，上传知识库词库支持(PDF、TXT、DOCX)格式
+点击Browse files后选择文件上传，上传语音文件支持(wav、mp3、ogg)格式
 ## 处理区
 - 1.点击`语音识别`，进行语音识别，界面会显示`语音转文本结果`。
 - 2.点击`相似文本检索`，BlogScribe会进行相似文本检索,在**语音识别文本**与**知识库词库**中进行相似词语检索，并替换语音识别文本中识别错误词语，替换后输出在`替换后的文本`中。
@@ -51,6 +51,7 @@ pip install -r requirements.txt
 - 4.点击`生成Markdown格式的博客`对润色后的文本进行Markdown格式的输出。
 ## 下载区
 点击`下载Markdown文件`进行.md文档格式下载。
+
 
 ```bash
 streamlit run app.py --server.address 127.0.0.1 --server.port 6000
